@@ -12,5 +12,10 @@ Contributors:
 
 * Kevin Lubick
 * [Fork the repository, make a pull request and see your name here!]
+<<<<<<< HEAD
 * John Gray
 * [training aid #2]
+=======
+* James
+* James2
+>>>>>>> origin/James'sBranch
