@@ -12,5 +12,10 @@ Contributors:
 
 * Kevin Lubick
 * [Fork the repository, make a pull request and see your name here!]
+<<<<<<< Updated upstream
 * John Gray
 * [training aid #2]
+=======
+* [training aid #1]
+* James
+>>>>>>> Stashed changes
